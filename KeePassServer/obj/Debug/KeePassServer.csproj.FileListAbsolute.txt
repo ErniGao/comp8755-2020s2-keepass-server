@@ -1,0 +1,11 @@
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepass-server\KeePassServer\bin\Debug\KeePassServer.exe.config
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepass-server\KeePassServer\bin\Debug\KeePassServer.exe
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepass-server\KeePassServer\bin\Debug\KeePassServer.pdb
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepass-server\KeePassServer\obj\Debug\KeePassServer.csprojAssemblyReference.cache
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepass-server\KeePassServer\obj\Debug\KeePassServer.Properties.Resources.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepass-server\KeePassServer\obj\Debug\KeePassServer.csproj.GenerateResource.cache
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepass-server\KeePassServer\obj\Debug\KeePassServer.csproj.CoreCompileInputs.cache
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepass-server\KeePassServer\obj\Debug\KeePassServer.exe
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepass-server\KeePassServer\obj\Debug\KeePassServer.pdb
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepass-server\KeePassServer\obj\Debug\KeePassServer.MainForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepass-server\KeePassServer\obj\Debug\KeePassServer.AuthenticationForm.resources
